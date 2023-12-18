@@ -1,6 +1,10 @@
 ## Цифровой архив The Mail & Guardian
 
+#### Архивируемый сайт
 _The Mail & Guardian: https://mg.co.za_
+
+#### Ссылка на архив в расширении warc
+https://drive.google.com/file/d/1-WFxNmiRM3XKaU4meiJ41AJPB4f4DNKL/view?usp=share_link
 
 #### Дата архивации сайта
 27 ноября 2023 года
