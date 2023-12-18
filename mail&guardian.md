@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1-WFxNmiRM3XKaU4meiJ41AJPB4f4DNKL/view?usp=share
 #### Имя и расширение архива
 mg.co.za.warc.gz
 
-#### Размер и метданные архива
+#### Размер и метаданные архива
 ![анализ метаданных архива с помощью инструмента metawarc](https://github.com/4Vlada/SA-websites-archive/assets/152094858/186c454b-6eeb-4108-ac3a-4d380ed74c0c)
 
 
